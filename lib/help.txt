@@ -1,2 +1,2 @@
-Hi user, you are view Cors for MONGOLLIST. I don't think you should be here. 
+Hi user, you are viewing Cors for MONGOLLIST. I don't think you should be here. 
 Please visit: http://www.mongollist.com instead. :)
